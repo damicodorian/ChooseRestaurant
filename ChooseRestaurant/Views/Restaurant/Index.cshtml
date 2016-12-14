@@ -1,0 +1,39 @@
+﻿@model List<ChooseRestaurant.Models.Restaurant>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List of restaurants</title>
+    <style type="text/css">
+        table {
+            border-collapse: collapse;
+        }
+
+        td, th {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Phone</th>
+            <th>Modify</th>
+        </tr>
+        @foreach (var restaurant in Model)
+        {
+            <tr>
+                <td>@restaurant.Name</td>
+                <td>@restaurant.Phone</td>
+                <td>@Html.ActionLink("Modify " + restaurant.Name, "ModifyRestaurant", new { id = restaurant.Id })</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

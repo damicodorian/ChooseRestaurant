@@ -1,0 +1,15 @@
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\obj\Debug\ChooseRestaurant.Tests.csprojResolveAssemblyReference.cache
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\bin\Debug\ChooseRestaurant.Tests.dll.config
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\bin\Debug\ChooseRestaurant.Tests.dll
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\bin\Debug\ChooseRestaurant.Tests.pdb
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\bin\Debug\ChooseRestaurant.dll
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\bin\Debug\EntityFramework.dll
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\bin\Debug\ChooseRestaurant.pdb
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\bin\Debug\EntityFramework.xml
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\bin\Debug\fr\System.Web.Mvc.resources.dll
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\obj\Debug\ChooseRestaurant.Tests.dll
+c:\users\dorian\documents\visual studio 2013\Projects\ChooseRestaurant\ChooseRestaurant.Tests\obj\Debug\ChooseRestaurant.Tests.pdb
